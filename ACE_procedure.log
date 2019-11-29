@@ -1,0 +1,655 @@
+**********
+2019-09-21_20:33:40
+**********
+processing...
+/home/***/ace/01_test_ace.png
+Enhancing 571x569 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.520 s
+/home/***/ace/02_test_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.212 s
+/home/***/ace/03_test_ace.png
+Enhancing 572x569 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.347 s
+/home/***/ace/04_test_ace.png
+Enhancing 572x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.125 s
+/home/***/ace/05_test_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.234 s
+/home/***/ace/06_test_ace.png
+Enhancing 572x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.132 s
+/home/***/ace/07_test_ace.png
+Enhancing 571x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.392 s
+/home/***/ace/08_test_ace.png
+Enhancing 571x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.437 s
+/home/***/ace/09_test_ace.png
+Enhancing 571x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.327 s
+/home/***/ace/10_left_ace.png
+Enhancing 1524x1518 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.057 s
+/home/***/ace/10_right_ace.png
+Enhancing 1523x1516 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 3.602 s
+/home/***/ace/10_test_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.224 s
+/home/***/ace/110759-od_ace.png
+Enhancing 778x777 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.700 s
+/home/***/ace/111556-od_ace.png
+Enhancing 778x778 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.974 s
+/home/***/ace/111828-od_ace.png
+Enhancing 778x778 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.955 s
+/home/***/ace/112254-od_ace.png
+Enhancing 778x777 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.662 s
+/home/***/ace/11_test_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.213 s
+/home/***/ace/12_test_ace.png
+Enhancing 571x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.429 s
+/home/***/ace/135335_proc_ace.png
+Enhancing 778x778 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.951 s
+/home/***/ace/13_left_ace.png
+Enhancing 1036x1012 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.524 s
+/home/***/ace/13_right_ace.png
+Enhancing 1036x1012 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.494 s
+/home/***/ace/13_test_ace.png
+Enhancing 572x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.125 s
+/home/***/ace/143442_proc_proc_ace.png
+Enhancing 778x778 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.950 s
+/home/***/ace/145129_proc_ace.png
+Enhancing 778x777 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.743 s
+/home/***/ace/145258-2016010814_proc_ace.png
+Enhancing 778x777 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.699 s
+/home/***/ace/14_test_ace.png
+Enhancing 573x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.435 s
+/home/***/ace/15_left_ace.png
+Enhancing 1612x1612 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.314 s
+/home/***/ace/15_right_ace.png
+Enhancing 1613x1612 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 3.033 s
+/home/***/ace/15_test_ace.png
+Enhancing 571x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.392 s
+/home/***/ace/16_left_ace.png
+Enhancing 1610x1336 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.164 s
+/home/***/ace/16_right_ace.png
+Enhancing 1603x1336 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 3.211 s
+/home/***/ace/16_test_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.216 s
+/home/***/ace/17_left_ace.png
+Enhancing 1257x1253 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 3.408 s
+/home/***/ace/17_right_ace.png
+Enhancing 1257x1253 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 3.575 s
+/home/***/ace/17_test_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.223 s
+/home/***/ace/18_test_ace.png
+Enhancing 572x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.123 s
+/home/***/ace/19_test_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.210 s
+/home/***/ace/20_test_ace.png
+Enhancing 572x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.124 s
+/home/***/ace/21_training_ace.png
+Enhancing 572x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.123 s
+/home/***/ace/22_training_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.229 s
+/home/***/ace/23_training_ace.png
+Enhancing 573x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.403 s
+/home/***/ace/24_training_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.209 s
+/home/***/ace/25_training_ace.png
+Enhancing 572x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.124 s
+/home/***/ace/26_training_ace.png
+Enhancing 570x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.118 s
+/home/***/ace/27_training_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.233 s
+/home/***/ace/28_training_ace.png
+Enhancing 571x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.331 s
+/home/***/ace/29_training_ace.png
+Enhancing 571x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.312 s
+/home/***/ace/30_training_ace.png
+Enhancing 571x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.398 s
+/home/***/ace/31110_ace.png
+Enhancing 622x544 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.351 s
+/home/***/ace/31114_ace.png
+Enhancing 628x544 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.297 s
+/home/***/ace/31115_ace.png
+Enhancing 633x544 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.306 s
+/home/***/ace/31117_ace.png
+Enhancing 636x544 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.195 s
+/home/***/ace/31118_ace.png
+Enhancing 629x544 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.176 s
+/home/***/ace/31119_ace.png
+Enhancing 628x544 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.295 s
+/home/***/ace/31_training_ace.png
+Enhancing 571x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.310 s
+/home/***/ace/32_training_ace.png
+Enhancing 571x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.352 s
+/home/***/ace/33_training_ace.png
+Enhancing 571x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.393 s
+/home/***/ace/34_training_ace.png
+Enhancing 572x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.131 s
+/home/***/ace/35_training_ace.png
+Enhancing 572x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.147 s
+/home/***/ace/36_training_ace.png
+Enhancing 571x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.390 s
+/home/***/ace/37_training_ace.png
+Enhancing 571x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.297 s
+/home/***/ace/38_training_ace.png
+Enhancing 572x568 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.225 s
+/home/***/ace/39_training_ace.png
+Enhancing 572x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.133 s
+/home/***/ace/40_training_ace.png
+Enhancing 571x567 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.299 s
+/home/***/ace/od1291ey_proc_ace.png
+Enhancing 1074x904 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.676 s
+/home/***/ace/od1346ey_proc_ace.png
+Enhancing 1073x904 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.891 s
+/home/***/ace/od1392ey_proc_ace.png
+Enhancing 1074x904 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.664 s
+/home/***/ace/od1471ey_proc_ace.png
+Enhancing 1074x904 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.671 s
+/home/***/ace/od1531ey_proc_ace.png
+Enhancing 1074x904 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.760 s
+/home/***/ace/od1739ey_proc_ace.png
+Enhancing 1074x904 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.655 s
+/home/***/ace/os1207ey_proc_ace.png
+Enhancing 1073x904 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.904 s
+/home/***/ace/os1391ey_proc_ace.png
+Enhancing 1073x904 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.914 s
+/home/***/ace/sc1207ey_proc_ace.png
+Enhancing 1074x904 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.668 s
+/home/***/ace/sc1391ey_proc_ace.png
+Enhancing 1074x904 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.772 s
+/home/***/ace/vk000319_ace.png
+Enhancing 1233x1230 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.410 s
+/home/***/ace/vk000333_ace.png
+Enhancing 1232x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.293 s
+/home/***/ace/vk000342_ace.png
+Enhancing 1224x1215 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.469 s
+/home/***/ace/vk000347_ace.png
+Enhancing 1233x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.240 s
+/home/***/ace/vk000350_ace.png
+Enhancing 1232x1230 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.659 s
+/home/***/ace/vk000373_ace.png
+Enhancing 1231x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.307 s
+/home/***/ace/vk000390_ace.png
+Enhancing 1231x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.383 s
+/home/***/ace/vk000397_ace.png
+Enhancing 1232x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.529 s
+/home/***/ace/vk000484_ace.png
+Enhancing 1230x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.422 s
+/home/***/ace/vk000491_ace.png
+Enhancing 1232x1230 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.574 s
+/home/***/ace/vk001028_ace.png
+Enhancing 1232x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.289 s
+/home/***/ace/vk001044_ace.png
+Enhancing 1231x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.676 s
+/home/***/ace/vk001208_ace.png
+Enhancing 1232x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.508 s
+/home/***/ace/vk001209_ace.png
+Enhancing 1233x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.267 s
+/home/***/ace/vk001210_ace.png
+Enhancing 1231x1227 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.471 s
+/home/***/ace/vk001211_ace.png
+Enhancing 1232x1231 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.578 s
+/home/***/ace/vk001212_ace.png
+Enhancing 1233x1230 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.335 s
+/home/***/ace/vk001217_ace.png
+Enhancing 1230x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.654 s
+/home/***/ace/vk001426_ace.png
+Enhancing 1232x1230 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.585 s
+/home/***/ace/vk001428_ace.png
+Enhancing 1231x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.611 s
+/home/***/ace/vk001432_ace.png
+Enhancing 1231x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.550 s
+/home/***/ace/vk003368_ace.png
+Enhancing 1231x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.356 s
+/home/***/ace/vk003369_ace.png
+Enhancing 1229x1227 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.418 s
+/home/***/ace/vk003370_ace.png
+Enhancing 1231x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.578 s
+/home/***/ace/vk003371_ace.png
+Enhancing 1230x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.624 s
+/home/***/ace/vk003422_ace.png
+Enhancing 1230x1230 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.730 s
+/home/***/ace/vk003425_ace.png
+Enhancing 1231x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.463 s
+/home/***/ace/vk003426_ace.png
+Enhancing 1233x1232 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.238 s
+/home/***/ace/vk010413_ace.png
+Enhancing 1228x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.311 s
+/home/***/ace/vk010415_ace.png
+Enhancing 1230x1227 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.529 s
+/home/***/ace/vk010499_ace.png
+Enhancing 1230x1226 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.397 s
+/home/***/ace/vk010606_ace.png
+Enhancing 1229x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.412 s
+/home/***/ace/vk010636_ace.png
+Enhancing 1231x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.373 s
+/home/***/ace/vk011068_ace.png
+Enhancing 1231x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.454 s
+/home/***/ace/vk011835_ace.png
+Enhancing 1231x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.580 s
+/home/***/ace/vk011848_ace.png
+Enhancing 1230x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.432 s
+/home/***/ace/vk012113_ace.png
+Enhancing 1227x1226 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.156 s
+/home/***/ace/vk012175_ace.png
+Enhancing 1231x1226 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.368 s
+/home/***/ace/vk012795_ace.png
+Enhancing 1230x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.406 s
+/home/***/ace/vk012825_ace.png
+Enhancing 1231x1227 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.392 s
+/home/***/ace/vk013256_ace.png
+Enhancing 1230x1225 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.623 s
+/home/***/ace/vk013386_ace.png
+Enhancing 1228x1229 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.373 s
+/home/***/ace/vk015950_ace.png
+Enhancing 1231x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.411 s
+/home/***/ace/vk016176_ace.png
+Enhancing 1231x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.358 s
+/home/***/ace/vk016690_ace.png
+Enhancing 1231x1225 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.509 s
+/home/***/ace/vk016714_ace.png
+Enhancing 1229x1227 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.466 s
+/home/***/ace/vk017362_ace.png
+Enhancing 1229x1226 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.303 s
+/home/***/ace/vk017732_ace.png
+Enhancing 1230x1227 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.443 s
+/home/***/ace/vk017809_ace.png
+Enhancing 1226x1226 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.000 s
+/home/***/ace/vk018338_ace.png
+Enhancing 1232x1230 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 0.621 s
+/home/***/ace/vk018382_ace.png
+Enhancing 1234x1227 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.006 s
+/home/***/ace/vk018436_ace.png
+Enhancing 1229x1226 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.302 s
+/home/***/ace/vk018704_ace.png
+Enhancing 1230x1226 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.373 s
+/home/***/ace/vk018706_ace.png
+Enhancing 1230x1226 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.355 s
+/home/***/ace/vk019181_ace.png
+Enhancing 1231x1228 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 2.315 s
+/home/***/ace/vk020796_ace.png
+Enhancing 1232x1227 image, alpha = 8.0000, omega = G:15
+Using OpenMP with 4 threads
+Degree 7 polynomial approximation
+CPU Time: 1.310 s
+done.
