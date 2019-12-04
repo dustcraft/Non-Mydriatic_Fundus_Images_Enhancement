@@ -2,12 +2,10 @@
 
 ## Overview
 
-## Summary
-
 ## More Details
+
+## Dependencies
 
 ## How to Use
 
 ## Related
-
-## Dependencies
