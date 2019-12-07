@@ -48,7 +48,7 @@ def files_iteration():
     saving_mask = file_operation('recovering_mask')
     saving_first = file_operation('first_filtered')
     saving_usm = file_operation('usm')
-    saving_border = file_operation('boder_adding_image')
+    saving_border = file_operation('border_adding_image')
     saving_recorrected = file_operation('recorrected_image')
     #getting the original data folder
     current_path = os.getcwd()
