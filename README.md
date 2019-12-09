@@ -32,7 +32,7 @@ The Python codes use several python modules, but some of them are not the defaul
  
  Tips: To install [OpenCV](https://opencv.org/) in your own directory, please carefully select the correct version from [here](https://opencv.org/releases/).
  
- Example:
+ Example:<br>
 Through the source code:
 ```bash
 git clone https://github.com/opencv/opencv.git
