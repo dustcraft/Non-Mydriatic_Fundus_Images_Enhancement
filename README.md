@@ -16,10 +16,10 @@
   4. Color restoration: restoring the color of the enhanced image, implemented by Python<br>
 
 ## Dependencies
-This repository is the integration of our pipeline algorithms, and it also contains some standalone third-party software which we have used. However, these codes rely on some extra libraries.
+&ensp;&ensp;This repository is the integration of our pipeline algorithms, and it also contains some standalone third-party software which we have used. However, these codes rely on some extra libraries.
 
 A. Python part<br>
-The Python codes use several python modules, but some of them are not the default packages (or the standard libraries) of Python. So, please install the following required python modules:<br>
+&ensp;&ensp;The Python codes use several python modules, but some of them are not the default packages (or the standard libraries) of Python. So, please install the following required python modules:<br>
 
  Package      | Tested version    
  ---------- | :-----------:  
@@ -57,10 +57,10 @@ Besides, to make the OpenCV can work with Python IDE, like Anaconda3, you may ne
 Because most of the other modules are heavily dependent on *NumPy* modules, we recommend you to use the Python IDE, such as Anaconda3. If not, please install appropriate packages for your development environment (Python versions, 32-bit or 64-bit)
 
 B. Other part (C part)<br>
-The modified ACE algorithm, which has been developed by **Pascal Getreuer**, is a part of our enhancement method. You can find the details from [here](http://www.ipol.im/pub/art/2012/g-ace/article_lr.pdf). And its zip file is available [here](http://www.ipol.im/pub/art/2012/g-ace/).
+&ensp;&ensp;The modified ACE algorithm, which has been developed by **Pascal Getreuer**, is a part of our enhancement method. You can find the details from [here](http://www.ipol.im/pub/art/2012/g-ace/article_lr.pdf). And its zip file is available [here](http://www.ipol.im/pub/art/2012/g-ace/).
 
 ## How to Use
-You can test the whole pipeline with several simple Python command-lines. And these commands will start processing the test images in this directory then generate their enhanced images in the corresponding folders.
+&ensp;&ensp;You can test the whole pipeline with several simple Python command-lines. And these commands will start processing the test images in this directory then generate their enhanced images in the corresponding folders.
 
 **1. Generating border-adding-images, first-filtered, recorrected-image, recovering-mask, and usm**<br>
 ```bash
