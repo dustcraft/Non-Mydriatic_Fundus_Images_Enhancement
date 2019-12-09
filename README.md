@@ -30,7 +30,7 @@ The Python codes use several python modules, but some of them are not the defaul
  [NumPy](https://numpy.org/)     | 1.14.2
  [Skimage](https://github.com/scikit-image/scikit-image)     | 0.13.1
  
- Tips: 
+ Tips: To install [OpenCV](https://opencv.org/) in your own directory, please carefully select the correct version from [here](https://opencv.org/releases/).
 
 
 ## How to Use
