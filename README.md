@@ -156,5 +156,5 @@ Or<br>
 ***Note***: Some algorithms need some third-party modules, and you can find them in the *tools*. The Python programs were tested on **Windows7**, **Windoes10**, and **Linux** (Ubuntu14.04) with Python3.6 or Anaconda3. The shell codes were only tested on **Linux** (Ubuntu14.04). The Matlab programs were tested on **Windows7**, **Windoes10** with Matlab 2013, Matlab 2016, and Matlab 2018. **Mac OS** are not officially supported.
 
 ## Related
-*Author*: Songlin Yan 
+*Author*: Songlin Yan <br>
 *URL*:
