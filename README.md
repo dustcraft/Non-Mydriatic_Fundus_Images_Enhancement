@@ -6,7 +6,8 @@
   
   ![Pipeline](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/Figure3(2).png)
   
-  This hybrid language toolbox provides the following methods:<br>
+  
+  This hybrid language toolbox provides the following methods:
   1. Mask generation: generating the mask of an input fundus image, implemented by Python<br>
   2. Region extension: extending the FOV region of the fundus image from ellipse to rectangle, implemented by Python<br>
   3. Image enhancement: providing dehazing, denoising and texture enhancing operations, implemented by both Python and C<br>
