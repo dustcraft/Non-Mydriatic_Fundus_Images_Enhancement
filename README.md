@@ -76,5 +76,13 @@ Their results are in the corresponding folders: *border_adding_image*, *first_fi
 **Note**: We only generate the masks after ellipse-fitting (***the recovering masks***) by default. And the former demonstration data will be replaced when you run this command-line. The default format of output images is **PNG**.
 
 If you want to generate the original masks (just be polished by some morphological operations), you could run:<br>
+```bash
+[sudo] python ./direct_mask_generation.py
+```
+Or<br>
+```bash
+[sudo] python3 ./direct_mask_generation.py
+```
+
 
 ## Related
