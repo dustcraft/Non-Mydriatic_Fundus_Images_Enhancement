@@ -86,5 +86,13 @@ Or<br>
 You will find the results in the folder: *direct_mask*.
 
 **2. Masks evaluations**
+```bash
+[sudo] python ./mask_similarity_coefficient.py
+```
+Or<br>
+```bash
+[sudo] python3 ./mask_similarity_coefficient.py
+```
+
 
 ## Related
