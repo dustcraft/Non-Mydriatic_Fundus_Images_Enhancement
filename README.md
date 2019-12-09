@@ -64,11 +64,11 @@ You can test the whole pipeline with several simple Python command-lines. And th
 
 **1. Generating border-adding-images, first-filtered, recorrected-image, recovering-mask, and usm**<br>
 ```bash
-[sudo] python ./synthesize.py #only python3 in your computer
+[sudo] python ./synthesize.py # Only python3 is in your computer
 ```
 Or<br>
 ```bash
-[sudo] python3 ./synthesize.py #when both python2 and python3 in your environment
+[sudo] python3 ./synthesize.py # When both python2 and python3 are in your environment
 ```
 
 ## Related
