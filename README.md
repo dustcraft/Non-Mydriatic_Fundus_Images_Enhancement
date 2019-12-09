@@ -83,6 +83,6 @@ Or<br>
 ```bash
 [sudo] python3 ./direct_mask_generation.py
 ```
-
+You will find the results in the folder: *direct_mask*.
 
 ## Related
