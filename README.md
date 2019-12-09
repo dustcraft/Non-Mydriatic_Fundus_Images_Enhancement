@@ -158,3 +158,7 @@ Or<br>
 ## Related
 *Author*: Songlin Yan <ysl1abx@gmail.com> <br>
 *URL*:
+
+## References
+1. P. Getreuer, “Automatic color enhancement (ace) and its fast implementation,” Image Processing On Line, vol. 2, pp. 266–277, 2012.
+2. K. Ma, Q. Wu, Z. Wang, Z. Duanmu, H. Yong, H. Li, and L. Zhang, “Group mad competition-a new methodology to compare objective image quality models,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 1664–1673.
