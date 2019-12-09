@@ -120,8 +120,9 @@ Or<br>
         result_saving('direct_mask_evaluation.txt', image_name, saving_evaluation, outputs)
 ```
 
-$\color{red}{红色字}$
-$\color{#FF0000}{红色字}$
-$\color{rgb(255,0,0)}{红色字}$
+AAA
+$\color{red}{AAA}$ aaa<br>
+$\color{#FF0000}{AAA}$aaa<br>
+$\color{rgb(255,0,0)}{AAA}$aaa
 
 ## Related
