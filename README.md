@@ -100,7 +100,9 @@ Or<br>
 ```python
     #creating the new text file
     #!Note: we will delete the existed results text file.
+```
     ~~file_operation('fitted_mask_evaluation.txt')~~
+```python
     file_operation('direct_mask_evaluation.txt')
     
 
