@@ -71,7 +71,7 @@ Or<br>
 [sudo] python3 ./synthesize.py # When both python2 and python3 are in your environment
 ```
 
-Their results are in the corresponding folders: *border_adding_image*, *first_filtered*, *recorrected_image*, *recovering_mask*, *usm*.
+&ensp;&ensp;Their results are in the corresponding folders: *border_adding_image*, *first_filtered*, *recorrected_image*, *recovering_mask*, *usm*.
 
 **Note**: We only generate the masks after ellipse-fitting (***the recovering masks***) by default. And the former demonstration data will be replaced when you run this command-line. The default format of output images is **PNG**.
 
