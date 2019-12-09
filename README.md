@@ -120,5 +120,11 @@ Or<br>
         result_saving('direct_mask_evaluation.txt', image_name, saving_evaluation, outputs) # <-adding this line
 ```
 
+**3. ACE processing**
+
+```bash
+[sudo] chmod 777 ace.sh log.sh
+[sudo] bash ./log.sh -p /path/to/your/ace/installation/folder
+```
 
 ## Related
