@@ -100,10 +100,8 @@ Or<br>
 ```python
     #creating the new text file
     #!Note: we will delete the existed results text file.
-```
-    ~~file_operation('fitted_mask_evaluation.txt')~~
-```python
-    file_operation('direct_mask_evaluation.txt')
+    #file_operation('fitted_mask_evaluation.txt') -
+    file_operation('direct_mask_evaluation.txt') #+
     
 
     for images in os.listdir(image_path):
@@ -114,12 +112,12 @@ Or<br>
                 
         temp = os.path.splitext(images)[0]
         image_name = temp.split('_mask')[0]
-        ~~target_image = files('recovering_mask', image_name, '_recovering_mask.png')~~
-        target_image = files('direct_mask', image_name, '_auto_threshold.png')
+        #target_image = files('recovering_mask', image_name, '_recovering_mask.png') -
+        target_image = files('direct_mask', image_name, '_auto_threshold.png') #+
                 
         (image_name, outputs) = main(file, target_image)
-        ~~result_saving('fitted_mask_evaluation.txt', image_name, saving_evaluation, outputs)~~
-        result_saving('direct_mask_evaluation.txt', image_name, saving_evaluation, outputs)
+        #result_saving('fitted_mask_evaluation.txt', image_name, saving_evaluation, outputs) -
+        result_saving('direct_mask_evaluation.txt', image_name, saving_evaluation, outputs) #+
 ```
 
 
