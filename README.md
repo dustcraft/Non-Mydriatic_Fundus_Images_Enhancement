@@ -62,6 +62,13 @@ The modified ACE algorithm, which has been developed by **Pascal Getreuer**, is 
 ## How to Use
 You can test the whole pipeline with several simple Python command-lines. And these commands will start processing the test images in this directory then generate their enhanced images in the corresponding folders.
 
-**1. Generating border-adding-images, first-filtered, recorrected-image, recovering-mask, and usm**
+**1. Generating border-adding-images, first-filtered, recorrected-image, recovering-mask, and usm**<br>
+```bash
+[sudo] python ./synthesize.py #only python3 in your computer
+```
+Or<br>
+```bash
+[sudo] python3 ./synthesize.py #when both python2 and python3 in your environment
+```
 
 ## Related
