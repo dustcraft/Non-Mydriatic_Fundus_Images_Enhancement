@@ -134,4 +134,15 @@ For instance:<br>
 ```
 The processing log file is *ACE_procedure.log*, and this file will be replaced when you run the command-lines above. So we still presented our log with the **pdf** format: *ACE_procedure.pdf*.
 
+**4. Color restoration**
+```bash
+[sudo] python ./postprocessing.py
+```
+Or<br>
+```bash
+[sudo] python3 ./postprocessing.py
+```
+
+
+
 ## Related
