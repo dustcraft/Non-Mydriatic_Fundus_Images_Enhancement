@@ -31,6 +31,15 @@ The Python codes use several python modules, but some of them are not the defaul
  [Skimage](https://github.com/scikit-image/scikit-image)     | 0.13.1
  
  Tips: To install [OpenCV](https://opencv.org/) in your own directory, please carefully select the correct version from [here](https://opencv.org/releases/).
+ 
+ Example:
+Through the source code:
+```bash
+git clone https://github.com/opencv/opencv.git
+git clone https://github.com/opencv/opencv_contrib.git
+```
+(Please download the corresponding release version)
+
 
 
 ## How to Use
