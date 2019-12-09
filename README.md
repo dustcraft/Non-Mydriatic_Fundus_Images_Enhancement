@@ -18,6 +18,10 @@ Our pipeline is a hybrid language toolbox for enhancing and reconstructing fundu
 ## Dependencies
 This repository is the integration of our pipeline algorithms, and it also contains some standalone third-party software which we have used. However, these codes rely on some extra libraries.
 
+A. Python part
+The Python codes use several python modules, but some of them are not the default packages (or the standard libraries) of Python. So, please install the following required python modules:
+
+
 ## How to Use
 
 ## Related
