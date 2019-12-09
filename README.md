@@ -127,4 +127,10 @@ Or<br>
 [sudo] bash ./log.sh -p /path/to/your/ace/installation/folder
 ```
 
+For instance:<br>
+```bash
+[sudo] chmod 777 ./ace.sh ./log.sh
+[sudo] bash ./log.sh -p /home/***/ace_20121029
+```
+
 ## Related
