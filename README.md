@@ -60,5 +60,6 @@ B. Other part (C part)<br>
 The modified ACE algorithm, which has been developed by **Pascal Getreuer**, is a part of our enhancement method. You can find the details from [here](http://www.ipol.im/pub/art/2012/g-ace/article_lr.pdf). And its zip file is available [here](http://www.ipol.im/pub/art/2012/g-ace/).
 
 ## How to Use
+You can test the whole pipeline with several simple Python command-lines. And these commands will start processing the test images in this directory then generate their enhanced images in the corresponding folders.
 
 ## Related
