@@ -71,4 +71,6 @@ Or<br>
 [sudo] python3 ./synthesize.py # When both python2 and python3 are in your environment
 ```
 
+Their results are in the corresponding folders: *border_adding_image*, *first_filtered*, *recorrected_image*, *recovering_mask*, *usm*.
+
 ## Related
