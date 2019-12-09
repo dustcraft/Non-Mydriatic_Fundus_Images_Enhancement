@@ -56,6 +56,9 @@ Besides, to make the OpenCV can work with Python IDE, like Anaconda3, you may ne
 
 Because most of the other modules are heavily dependent on *NumPy* modules, we recommend you to use the Python IDE, such as Anaconda3. If not, please install appropriate packages for your development environment (Python versions, 32-bit or 64-bit)
 
+B. Other part (C part)<br>
+The modified ACE algorithm, which has been developed by **Pascal Getreuer**, is a part of our enhancement method. You can find the details from [here](http://www.ipol.im/pub/art/2012/g-ace/article_lr.pdf). And its zip file is available [here](http://www.ipol.im/pub/art/2012/g-ace/).
+
 ## How to Use
 
 ## Related
