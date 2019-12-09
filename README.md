@@ -119,6 +119,6 @@ Or<br>
         ~~result_saving('fitted_mask_evaluation.txt', image_name, saving_evaluation, outputs)~~
         result_saving('direct_mask_evaluation.txt', image_name, saving_evaluation, outputs)
 ```
-<font color=#00ffff>gray</font>
+<font color=gray size=72>color=gray</font>
 
 ## Related
