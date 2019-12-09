@@ -149,6 +149,10 @@ Or<br>
 
 &ensp;&ensp;This directory has already included all of the FR (in the *FR_source_testing_codes*) and NR (in the *NR_source_testing_codes*) source codes. And we have provided their batch-running platforms in this directory. Nevertheless, you could use your own from [here](https://ece.uwaterloo.ca/~z70wang/research/iwssim/) and [here](http://live.ece.utexas.edu/research/Quality/index_algorithms.htm).
 
-***Run***: &ensp;**platform_xxx.m** in each folder (in the folder: *FR_testing_codes* and *NR_testing_codes*).
+***Run***: &ensp;**platform_xxx.m** in each folder (*FR_testing_codes* and *NR_testing_codes*).<br>
+
+&ensp;&ensp;Their results are saved in the *fr_results* and *nr_results*, respectively.
+
+***Note***: Some algorithms need some third-party modules, and you can find them in the *tools*. The Python programs were tested on **Windows7**, **Windoes10**, and **Linux** (Ubuntu14.04) with Python3.6 or Anaconda3. The shell codes were only tested on **Linux** (Ubuntu14.04). The Matlab programs were tested on **Windows7**, **Windoes10** with Matlab 2013, Matlab 2016, and Matlab 2018. **Mac OS** are not officially supported.
 
 ## Related
