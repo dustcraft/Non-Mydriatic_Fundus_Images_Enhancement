@@ -46,8 +46,8 @@ git clone https://github.com/opencv/opencv_contrib.git
 Or directly through pip3 to install it:<br>
 
 ```bash
-[sudo] pip3 install opencv-python ==3.3.1
-[sudo] pip3 install opencv-contrib-python ==3.3.1
+[sudo] pip3 install opencv-python==3.3.1
+[sudo] pip3 install opencv-contrib-python==3.3.1
 ```
 **Note**:
 We need an extra OpenCV module -- [*ximgproc*](https://github.com/opencv/opencv_contrib) -- to perform our algorithms, but it does not belong to the official OpenCV distribution. So, you should install that extra module -- *Opencv-contrib*.
