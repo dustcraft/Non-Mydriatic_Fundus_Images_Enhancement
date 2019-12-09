@@ -6,6 +6,8 @@
   
   ![Pipeline](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/Figure3(2).png)
   
+  This hybrid language toolbox provides the following methods:
+  
 
 ## More Details
 
