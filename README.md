@@ -16,6 +16,7 @@ Our pipeline is a hybrid language toolbox for enhancing and reconstructing fundu
   4. Color restoration: restoring the color of the enhanced image, implemented by Python<br>
 
 ## Dependencies
+This repository is the integration of our pipeline algorithms, and it also contains some standalone third-party software which we have used. However, these codes rely on some extra libraries.
 
 ## How to Use
 
