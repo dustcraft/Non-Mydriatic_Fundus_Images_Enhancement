@@ -150,6 +150,8 @@ Or<br>
 
 &ensp;&ensp;And the results are in the folders: *recovery and restoration*, respectively.
 
+![enhancement](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/enhanced_image(1).png)
+
 **5. Testing**
 
 &ensp;&ensp;This directory has already included all of the FR (in the *FR_source_testing_codes*) and NR (in the *NR_source_testing_codes*) source codes. And we have provided their batch-running platforms in this directory. Nevertheless, you could use your own from [here](https://ece.uwaterloo.ca/~z70wang/research/iwssim/) and [here](http://live.ece.utexas.edu/research/Quality/index_algorithms.htm).
