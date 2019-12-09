@@ -93,6 +93,6 @@ Or<br>
 ```bash
 [sudo] python3 ./mask_similarity_coefficient.py
 ```
-
+The output file is *fitted_mask_evaluation.txt*. However, we also presented its Excel version (***fitted_mask_evaluation.xlsx***) in this repository.
 
 ## Related
