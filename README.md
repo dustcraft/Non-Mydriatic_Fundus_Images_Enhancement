@@ -1,6 +1,9 @@
 # Non-Mydriatic Fundus Images Enhancement
 
 ## Overview
+
+![front](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/video_start1(1).png)
+
 &ensp;&ensp;Our enhancement pipeline is a static and hands-off algorithm tree. It is used to enhance both mydriatic and non-mydriatic fundus images. Besides, our enhancement method can also remove overexposure and underexposure in the image like the Dodging and Burning technique. More important, you only need to keyboard several simple command-lines to test our pipeline.
   
 ## More Details
