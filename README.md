@@ -97,4 +97,28 @@ The output file is *fitted_mask_evaluation.txt*. However, we also presented its 
 
 **Note**: The benchmark masks come from the **DRIVE** dataset. You can access them from [here](https://drive.grand-challenge.org/). And our evaluation demo just shows the results between the benchmark masks and the ellipse-fitted masks (the results in the *recovering_mask* folder). However, the results between the benchmark masks and the direct generation masks are listed in the file -- *direct_mask_evaluation.xlsx*. Actually, you can get this file (but the format is ***txt***) by changing several command-lines:
 
+```python
+    #creating the new text file
+    #!Note: we will delete the existed results text file.
+    ~~file_operation('fitted_mask_evaluation.txt')~~
+    file_operation('direct_mask_evaluation.txt')
+    
+
+    for images in os.listdir(image_path):
+        full_path = os.path.join(image_path, images)
+        if os.path.isdir(full_path):
+            continue
+        file = os.path.normcase(full_path)
+                
+        temp = os.path.splitext(images)[0]
+        image_name = temp.split('_mask')[0]
+        ~~target_image = files('recovering_mask', image_name, '_recovering_mask.png')~~
+        target_image = files('direct_mask', image_name, '_auto_threshold.png')
+                
+        (image_name, outputs) = main(file, target_image)
+        ~~result_saving('fitted_mask_evaluation.txt', image_name, saving_evaluation, outputs)~~
+        result_saving('direct_mask_evaluation.txt', image_name, saving_evaluation, outputs)
+```
+
+
 ## Related
