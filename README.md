@@ -40,6 +40,15 @@ git clone https://github.com/opencv/opencv_contrib.git
 ```
 (Please download the corresponding release version)
 
+```bash
+[sudo] python3 setup.py install
+```
+Or directly through pip3 to install it:<br>
+
+```bash
+[sudo] pip3 install opencv-python ==3.3.1
+[sudo] pip3 install opencv-contrib-python ==3.3.1
+```
 
 
 ## How to Use
