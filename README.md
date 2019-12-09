@@ -95,6 +95,6 @@ Or<br>
 ```
 The output file is *fitted_mask_evaluation.txt*. However, we also presented its Excel version (***fitted_mask_evaluation.xlsx***) in this repository.
 
-**Note**: the benchmark masks come from the DRIVE dataset. You can access them from [here](https://drive.grand-challenge.org/). And our evaluation demo just shows the results between the benchmark masks and the ellipse-fitted masks (the results in the *recovering_mask* folder). However, the results between the benchmark masks and the direct generation masks are listed in the file -- *direct_mask_evaluation.xlsx*. Actually, you can get this file (but the format is ***txt***) by changing several command-lines:
+**Note**: The benchmark masks come from the **DRIVE** dataset. You can access them from [here](https://drive.grand-challenge.org/). And our evaluation demo just shows the results between the benchmark masks and the ellipse-fitted masks (the results in the *recovering_mask* folder). However, the results between the benchmark masks and the direct generation masks are listed in the file -- *direct_mask_evaluation.xlsx*. Actually, you can get this file (but the format is ***txt***) by changing several command-lines:
 
 ## Related
