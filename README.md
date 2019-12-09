@@ -9,7 +9,7 @@ Our pipeline is a hybrid language toolbox for enhancing and reconstructing fundu
   ![Pipeline](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/Figure3(2).png)
   
   
-  This hybrid language toolbox provides the following methods:
+  This hybrid language toolbox provides the following methods:<br>
   1. Mask generation: generating the mask of an input fundus image, implemented by Python<br>
   2. Region extension: extending the FOV region of the fundus image from ellipse to rectangle, implemented by Python<br>
   3. Image enhancement: providing dehazing, denoising and texture enhancing operations, implemented by both Python and C<br>
@@ -18,8 +18,8 @@ Our pipeline is a hybrid language toolbox for enhancing and reconstructing fundu
 ## Dependencies
 This repository is the integration of our pipeline algorithms, and it also contains some standalone third-party software which we have used. However, these codes rely on some extra libraries.
 
-A. Python part
-The Python codes use several python modules, but some of them are not the default packages (or the standard libraries) of Python. So, please install the following required python modules:
+A. Python part<br>
+The Python codes use several python modules, but some of them are not the default packages (or the standard libraries) of Python. So, please install the following required python modules:<br>
 
 
 ## How to Use
