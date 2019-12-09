@@ -21,9 +21,9 @@ This repository is the integration of our pipeline algorithms, and it also conta
 A. Python part<br>
 The Python codes use several python modules, but some of them are not the default packages (or the standard libraries) of Python. So, please install the following required python modules:<br>
 
- Package      | 第一列    
+ Package      | Tested version    
  ---------- | :-----------:  
- 第一行     | 第一列     
+ [Python](https://www.python.org)     | 3.6.4     
 
 
 ## How to Use
