@@ -76,6 +76,8 @@ Or<br>
 
 &ensp;&ensp;Their results are in the corresponding folders: *border_adding_image*, *first_filtered*, *recorrected_image*, *recovering_mask*, *usm*.
 
+![affine](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/affine_image1.png)
+
 **Note**: We only generate the masks after ellipse-fitting (***the recovering masks***) by default. And the former demonstration data will be replaced when you run this command-line. The default format of output images is **PNG**.
 
 &ensp;&ensp;If you want to generate the original masks (just be polished by some morphological operations), you could run:<br>
