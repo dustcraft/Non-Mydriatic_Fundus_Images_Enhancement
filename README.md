@@ -132,5 +132,6 @@ For instance:<br>
 [sudo] chmod 777 ./ace.sh ./log.sh
 [sudo] bash ./log.sh -p /home/***/ace_20121029
 ```
+The processing log file is *ACE_procedure.log*, and this file will be replaced when you run the command-lines above. So we still presented our log with the **pdf** format: *ACE_procedure.pdf*.
 
 ## Related
