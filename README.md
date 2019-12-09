@@ -29,6 +29,8 @@ The Python codes use several python modules, but some of them are not the defaul
  [PIL](http://www.pythonware.com/products/pil/)     | 5.0.0
  [NumPy](https://numpy.org/)     | 1.14.2
  [Skimage](https://github.com/scikit-image/scikit-image)     | 0.13.1
+ 
+ Tips: 
 
 
 ## How to Use
