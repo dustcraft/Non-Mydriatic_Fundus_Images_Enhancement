@@ -33,7 +33,7 @@ A. Python part<br>
  Tips: To install [OpenCV](https://opencv.org/) in your own directory, please carefully select the correct version from [here](https://opencv.org/releases/).
  
  Example:<br>
-Through the source code:
+&ensp;&ensp;Through the source code:
 ```bash
 git clone https://github.com/opencv/opencv.git
 git clone https://github.com/opencv/opencv_contrib.git
