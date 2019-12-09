@@ -27,6 +27,8 @@ The Python codes use several python modules, but some of them are not the defaul
  [OpenCV](https://opencv.org/)     | 3.3.1
  [SciPy](https://www.scipy.org/)     | 1.0.0
  [PIL](http://www.pythonware.com/products/pil/)     | 5.0.0
+ [NumPy](https://numpy.org/)     | 1.14.2
+ [Skimage](https://github.com/scikit-image/scikit-image)     | 0.13.1
 
 
 ## How to Use
