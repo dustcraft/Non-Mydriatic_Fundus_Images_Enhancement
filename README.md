@@ -55,7 +55,7 @@ Or directly through pip3 to install it:<br>
 **Note**:
 We need an extra OpenCV module -- [*ximgproc*](https://github.com/opencv/opencv_contrib) -- to perform our algorithms, but it does not belong to the official OpenCV distribution. So, you should install this extra package -- *Opencv-contrib*.
 
-&ensp;&ensp;Besides, to make the OpenCV can work with Python IDE, like Anaconda3, you may need to follow the guide of [Install OpenCV for Anaconda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#) to setup OpenCV. If you use the Anaconda3 IDE, the extra release -- *Opencv-contrib* -- will be installed with the official OpenCV distribution by default.
+&ensp;&ensp;Besides, to make the OpenCV can work with Python IDE, like [Anaconda3](https://www.anaconda.com/), you may need to follow the guide of [Install OpenCV for Anaconda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#) to setup OpenCV. If you use the Anaconda3 IDE, the extra release -- *Opencv-contrib* -- will be installed with the official OpenCV distribution by default.
 
 &ensp;&ensp;Because most of the other modules are heavily dependent on *NumPy* module, we recommend you to use the Python IDE, such as Anaconda3. If not, please install appropriate packages for your development environment (Python versions, 32-bit or 64-bit)
 
