@@ -160,7 +160,7 @@ Or<br>
 
 &ensp;&ensp;Their results are saved in the *fr_results* and *nr_results*, respectively.
 
-***Note***: Some algorithms need few other third-party tools, and you can find them in the *tools*. The Python programs were tested on **Windows7**, **Windoes10**, and **Linux** (Ubuntu14.04) with Python3.6 or Anaconda3. The shell codes were only tested on **Linux** (Ubuntu14.04). The Matlab programs were tested on **Windows7**, **Windoes10** with Matlab 2013, Matlab 2016, and Matlab 2018. **Mac OS** are not officially supported.
+***Note***: Some algorithms need a few other third-party tools, and you can find them in the *tools*. The Python programs were tested on **Windows7**, **Windoes10**, and **Linux** (Ubuntu14.04) with Python3.6 or Anaconda3. The shell codes were only tested on **Linux** (Ubuntu14.04). The Matlab programs were tested on **Windows7**, **Windoes10** with Matlab 2013, Matlab 2016, and Matlab 2018. **Mac OS** are not officially supported.
 
 ![results](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/nr_results_plot(1).jpg)
 
