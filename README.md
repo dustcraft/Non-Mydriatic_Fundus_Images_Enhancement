@@ -57,7 +57,7 @@ We need an extra OpenCV module -- [*ximgproc*](https://github.com/opencv/opencv_
 
 &ensp;&ensp;Besides, to make the OpenCV can work with Python IDE, like Anaconda3, you may need to follow the guide of [Install OpenCV for Anaconda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#) to setup OpenCV. If you use the Anaconda3 IDE, the extra release -- *Opencv-contrib* -- will be installed with the official OpenCV distribution by default.
 
-&ensp;&ensp;Because most of the other modules are heavily dependent on *NumPy* modules, we recommend you to use the Python IDE, such as Anaconda3. If not, please install appropriate packages for your development environment (Python versions, 32-bit or 64-bit)
+&ensp;&ensp;Because most of the other modules are heavily dependent on *NumPy* module, we recommend you to use the Python IDE, such as Anaconda3. If not, please install appropriate packages for your development environment (Python versions, 32-bit or 64-bit)
 
 B. Other part (C part)<br>
 &ensp;&ensp;The modified ACE algorithm, which has been developed by **Pascal Getreuer**, is a part of our enhancement method. You can find the details from [here](http://www.ipol.im/pub/art/2012/g-ace/article_lr.pdf). And its zip file is available [here](http://www.ipol.im/pub/art/2012/g-ace/).
