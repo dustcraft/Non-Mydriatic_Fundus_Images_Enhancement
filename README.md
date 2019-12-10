@@ -33,7 +33,7 @@ A. Python part<br>
  [NumPy](https://numpy.org/)     | 1.14.2
  [Skimage](https://github.com/scikit-image/scikit-image)     | 0.13.1
  
- Tips: To install [OpenCV](https://opencv.org/) in your own directory, please carefully select the correct version from [here](https://opencv.org/releases/).
+ Tips: To install [OpenCV](https://opencv.org/) in your own directory, please carefully select the version from [here](https://opencv.org/releases/).
  
  Example:<br>
 &ensp;&ensp;Through the source code:
