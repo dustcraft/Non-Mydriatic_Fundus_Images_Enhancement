@@ -53,7 +53,7 @@ Or directly through pip3 to install it:<br>
 [sudo] pip3 install opencv-contrib-python==3.3.1
 ```
 **Note**:
-We need an extra OpenCV module -- [*ximgproc*](https://github.com/opencv/opencv_contrib) -- to perform our algorithms, but it does not belong to the official OpenCV distribution. So, you should install this extra module -- *Opencv-contrib*.
+We need an extra OpenCV module -- [*ximgproc*](https://github.com/opencv/opencv_contrib) -- to perform our algorithms, but it does not belong to the official OpenCV distribution. So, you should install this extra package -- *Opencv-contrib*.
 
 &ensp;&ensp;Besides, to make the OpenCV can work with Python IDE, like Anaconda3, you may need to follow the guide of [Install OpenCV for Anaconda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#) to setup OpenCV. If you use the Anaconda3 IDE, the extra release -- *Opencv-contrib* -- will be installed with the official OpenCV distribution by default.
 
