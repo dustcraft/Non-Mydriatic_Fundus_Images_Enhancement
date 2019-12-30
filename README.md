@@ -77,6 +77,8 @@ Or<br>
 &ensp;&ensp;Their results are in the corresponding folders: *border_adding_image*, *first_filtered*, *recorrected_image*, *recovering_mask*, *usm*.
 
 ![affine](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/affine_image1.png)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;A sample of the extension result
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;This image is generated from ***10_left*** (which is from the Kaggle sample dataset) by affine transformation.
 
 **Note**: We only generate the masks after ellipse-fitting (***the recovering masks***) by default. And the existed data will be replaced when you run this command-line. The default format of output images is **PNG**.
 
@@ -151,6 +153,7 @@ Or<br>
 &ensp;&ensp;And the results are in the folders: *recovery and restoration*, respectively.
 
 ![enhancement](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/enhanced_image(1).png)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;A sample of the color restred result
 
 **5. Testing**
 
