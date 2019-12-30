@@ -78,7 +78,7 @@ Or<br>
 
 ![affine](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/affine_image1.png)<br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;A sample of the extension result<br>
-&ensp;&ensp;This image is generated from ***10_left*** (which is from the Kaggle sample dataset) by affine transformation.
+&ensp;This image is generated from ***10_left*** (which is from the Kaggle sample dataset) by affine transformation.
 
 **Note**: We only generate the masks after ellipse-fitting (***the recovering masks***) by default. And the existed data will be replaced when you run this command-line. The default format of output images is **PNG**.
 
