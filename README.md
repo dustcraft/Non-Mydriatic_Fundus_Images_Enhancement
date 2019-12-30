@@ -153,7 +153,7 @@ Or<br>
 &ensp;&ensp;And the results are in the folders: *recovery and restoration*, respectively.
 
 ![enhancement](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/enhanced_image(1).png)<br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;A sample of the color restred result
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;A sample of the color restored result
 
 **5. Testing**
 
