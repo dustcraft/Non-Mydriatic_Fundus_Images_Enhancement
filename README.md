@@ -169,13 +169,15 @@ Or<br>
 
 ## Related
 *Author*: Songlin Yan <ysl1abx@gmail.com> <br>
-*URL*:
+*URL*: https://ieeexplore.ieee.org/document/9754644
 
 Please cite the following paper when using it:
 
-    >S. Yan, X. Chen, J. Sun, X. Tang and X. Chi, "Non-Mydriatic Fundus Images Enhancement Based on Conformal Mapping Extension," 2021 IEEE 7th International Conference on Cloud Computing and Intelligent Systems (CCIS), Xi'an, China, 2021, pp. 218-223, doi: 10.1109/CCIS53392.2021.9754644.
+    S. Yan, X. Chen, J. Sun, X. Tang and X. Chi, "Non-Mydriatic Fundus Images Enhancement Based on Conformal Mapping Extension," <br>2021 IEEE 7th International Conference on Cloud Computing and Intelligent Systems (CCIS), Xi'an, China, 2021, pp. 218-223, doi: 10.1109/CCIS53392.2021.9754644.<br>
 
-Our award:
+Our award:<br>
+
+
 ![best paper award](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/certificate/best_paper.png)
 
 ## References
