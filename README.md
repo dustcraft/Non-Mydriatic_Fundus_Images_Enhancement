@@ -171,6 +171,13 @@ Or<br>
 *Author*: Songlin Yan <ysl1abx@gmail.com> <br>
 *URL*:
 
+Please cite the following paper when using it:
+
+    >S. Yan, X. Chen, J. Sun, X. Tang and X. Chi, "Non-Mydriatic Fundus Images Enhancement Based on Conformal Mapping Extension," 2021 IEEE 7th International Conference on Cloud Computing and Intelligent Systems (CCIS), Xi'an, China, 2021, pp. 218-223, doi: 10.1109/CCIS53392.2021.9754644.
+
+Our award:
+![best paper award](https://github.com/dustcraft/Non-Mydriatic_Fundus_Images_Enhancement/raw/master/certificate/best_paper.png)
+
 ## References
 1. P. Getreuer, “Automatic color enhancement (ace) and its fast implementation,” Image Processing On Line, vol. 2, pp. 266–277, 2012.
 2. K. Ma, Q. Wu, Z. Wang, Z. Duanmu, H. Yong, H. Li, and L. Zhang, “Group mad competition-a new methodology to compare objective image quality models,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 1664–1673.
